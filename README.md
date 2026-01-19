@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://www.lcs2.in/"><b>[🌐 LCS2 Lab]</b></a> •
-  <a href=""><b>[📜 Paper]</b></a> •
+  <a href="https://aclanthology.org/2025.emnlp-main.889/"><b>[📜 Paper]</b></a> •
   <a href="https://github.com/ab-iitd/untrap/"><b>[🐱 GitHub]</b></a>
   
 </p>
