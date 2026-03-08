@@ -19,7 +19,7 @@ Repo for "<a href="" target="_blank">Temporal Referential Consistency: Do LLMs F
 
 ## 🔥 News
 
-- [2026/03/08] TEMP=ReCon Dataset Released on HuggingFace
+- [2026/03/08] TEMP-ReCon Dataset Released on HuggingFace
 - [2025/08/20] UnTRaP is accepted at EMNLP 2025 (main track)!
 
 
